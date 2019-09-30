@@ -1,0 +1,14 @@
+#IDEA REMOVING
+
+*.iml
+*idea*
+*out*
+
+#EMACS TEMP FILE REMOVING
+
+*~
+*#*
+
+#MAIN AND CLASS FILES
+
+*.class
